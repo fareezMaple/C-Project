@@ -3,11 +3,14 @@ Personal beginner project
 
 ### Simple calculator
 Very simple
+
 Feature: Addition, substraction, multiplication, division, find remainder, power 
+
 BTW THIS IS **UNFINISHED PROJECT** HAHAHHAH
 
 ### Todo list
 Tak simple sgt tapi okey la 
+
 Features: Add new, View all, search tags, delete message, archieve
 
 - List is saved on *ToDoListUserData.txt* file, also the program will read from that file, is you modifiy the file, the program data is also change
@@ -21,4 +24,5 @@ Features: Add new, View all, search tags, delete message, archieve
 
 #### Editor used - Dev C++
   https://www.bloodshed.net/devcpp.html 
+  
   Download: https://sourceforge.net/projects/orwelldevcpp/
